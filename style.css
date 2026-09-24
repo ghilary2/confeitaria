@@ -1,0 +1,68 @@
+body{
+    background-color: aqua;
+    color: bisque;
+    fonte-family;Arial; "HelveticaNeue",Heveltica,sans-serif;
+    font-size : 16px
+}
+
+h1{ 
+    text-align: center;
+}
+p{
+   font-weight: bolder;
+   text-decoration: none;
+}
+mark{
+    background-color: bisque;
+}
+img{
+    bolder: radius 50px;
+    height: 200px;
+}
+
+.confeitaria{
+    height: 50px;
+}
+
+button{
+    background-color: beige;
+    color: black
+    border:radius 12px;
+}
+button:haver{
+    color: antiquewhite;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    background-color: blanchedalmond;
+    color: black;
+}
+/*estilização
+h1{text-aling:center;
+}
+*/
+.title-one{
+    
+    text-align: center;
+
+    background-color: blueviolet;
+
+}
+
+
+#img-one{
+
+    margin-top: 20px;
+    height: 400px; 
+
+
+}
+nave ul{
+    display: flex;
+    list-style: none:block
+
+    gap:200px
+
+    justify
+}
